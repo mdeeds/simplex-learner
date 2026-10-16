@@ -1,0 +1,6 @@
+{
+  "name": "WebGL Simplex Noise Neural Approximator",
+  "description": "Approximating 2D Simplex Noise using a three-layer neural network implemented entirely in JavaScript WebGL GPU math with interactive gradient descent steps, real-time canvas visualizations, and weight inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
